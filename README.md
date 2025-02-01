@@ -1,4 +1,4 @@
-# 🧮 Calculator App
+# Calculator App
 
 A simple **calculator app** built with **HTML**, **CSS** that allows users to perform basic arithmetic operations.
 
